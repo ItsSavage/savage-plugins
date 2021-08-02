@@ -1,7 +1,7 @@
-# savage-plugins
+# Savage-Plugins
 There Are Some Plugins Created By Savage
 
-# plugin-list
+# Plugin-List
 
 1.GatherServ
 
@@ -12,6 +12,8 @@ There Are Some Plugins Created By Savage
 4.UltimateMenu
 
 5.UltimateTroll+
+
+6. UltimateNick
 
 # GatherServ
 
